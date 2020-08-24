@@ -1,10 +1,6 @@
-## Desenvolvimento de aplicação web para criar e gerenciar eventos
+# Desenvolvimento de aplicação web para criar e gerenciar eventos
 
-### Arthur Richelme Sampaio dos Santos
-### Francisco Michael
-### Gabriel Costa Souza
-### Gustavo Albert Lopes Sousa
-### Mateus Alves Gonzaga
+### Itegrantes: Arthur Richelme Sampaio dos Santos, Francisco Michael, Gabriel Costa Souza, Gustavo Albert Lopes Sousa e Mateus Alves Gonzaga.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
