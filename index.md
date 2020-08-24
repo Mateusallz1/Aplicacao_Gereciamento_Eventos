@@ -1,37 +1,45 @@
 # Desenvolvimento de aplicação web para criar e gerenciar eventos
 
-### Desenvolvedores: Arthur Richelme Sampaio dos Santos, Francisco Michael, Gabriel Costa Souza, Gustavo Albert Lopes Sousa e Mateus Alves Gonzaga.
+**Desenvolvedores: Arthur Richelme Sampaio dos Santos, Francisco Michael Soares de Oliveira, Gabriel Costa Souza, Gustavo Albert Lopes Sousa e Mateus Alves Gonzaga.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Descrição
 
-### Markdown
+  Este projeto apresenta a experiência de desenvolvimento de uma aplicação mobile
+voltada para organização e participação de eventos de entretenimento. Pretendemos
+realizar a criação desta aplicação através do uso da metodologia Scrum para
+gerenciamento e organização, gerando valor por meio de entregas contínuas de software
+funcionando. Buscamos implementar uma aplicação que agrade o público-alvo e facilite
+sua vida.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publico alvo
+  Aplicativo voltado para jovens maiores de dezoito anos.
 
-```markdown
-Syntax highlighted code block
+### Problema a ser resolvido
+  A inexistência de aplicações mobile na região a respeito da organização e
+participação de eventos de entretenimento, viabilizou a elaboração de um projeto de
+software no tema.
+Em 29 de Abril de 2019 o Brasil possuía mais de 230 milhões de smartphones em
+uso. E a 30° Pesquisa Anual de Administração e Uso de Tecnologia da Informação nas
+Empresas, realizada pela Fundação Getúlio Vargas de São Paulo (FGV-SP) revela que
+ao fim de 2019 o país tinha mais de 420 milhões de aparelhos digitais ativos, incluindo
+computadores, notebooks, smartphones e tablets.
+Os eventos de entretenimento em geral são vistos como uma forma de beneficiar
+diversos aspectos como:
+- A melhoria do estado emocional.
+- Promove o bem-estar.
+- Pode ser usado para tratar fobias e hiperatividade.
+- Promove relações sociais positivas.
+- Promove questões culturais.
+  Neste contexto, o projeto propõe o desenvolvimento de uma aplicação mobile que
+irá facilitar o acesso a eventos de entretenimento. Durante o processo de
+desenvolvimento de uma aplicação mobile são utilizadas demandas tecnológicas e
+técnicas que abrangem o curso de Tecnologia em Análise e Desenvolvimento de
+Sistemas podendo ter impactos significativos na aprendizagem dos alunos envolvidos.
+Com a aplicação produzida pretende-se disponibilizá-la para o público-alvo através de
+plataformas digitais como a PlayStore.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FMichael77/Projeto---Aplica-o-para-gerenciamento-de-eventos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Funcionalidades básicas que o projeto deveria contemplar
+- Cadastro e login
+- Cadastrar eventos
+- Pesquisar eventos disponíveis
+- Eventos próximos ao usuário
