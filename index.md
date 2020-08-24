@@ -1,6 +1,10 @@
-## Desenvolvimento de aplicação mobile para criar e gerenciar eventos
+## Desenvolvimento de aplicação web para criar e gerenciar eventos
 
-You can use the [editor on GitHub](https://github.com/FMichael77/Projeto---Aplica-o-para-gerenciamento-de-eventos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Arthur Richelme Sampaio dos Santos
+### Francisco Michael
+### Gabriel Costa Souza
+### Gustavo Albert Lopes Sousa
+### Mateus Alves Gonzaga
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
