@@ -22,6 +22,7 @@ diversos aspectos como:
 - Pode ser usado para tratar fobias e hiperatividade.
 - Promove relações sociais positivas.
 - Promove questões culturais.
+
   Neste contexto, o projeto propõe o desenvolvimento de uma aplicação web que
 irá facilitar o acesso a eventos de entretenimento. 
 
