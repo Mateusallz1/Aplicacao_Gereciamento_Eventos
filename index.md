@@ -18,7 +18,7 @@ Aplicativo voltado para jovens maiores de dezoito anos.
 Os eventos de entretenimento em geral são vistos como uma forma de beneficiar
 diversos aspectos como:
 
-- A melhoria do estado emocional.
+ A melhoria do estado emocional.
 - Promove o bem-estar.
 - Pode ser usado para tratar fobias e hiperatividade.
 - Promove relações sociais positivas.
