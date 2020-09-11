@@ -34,7 +34,7 @@ irá facilitar o acesso a eventos de entretenimento.
 - Eventos próximos ao usuário
 
 ### Diagrama de Caso de Uso
-![UseCase Diagram - App. Gerenc. Eventos](https://github.com/FMichael77/Aplicacao_Gereciamento_Eventos/blob/gh-pages/UseCase%20Diagram%20-%20App.%20Gerenc.%20Eventos.png)
+![UseCase Diagram - App. Gerenc. Eventos](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/UseCase%20Diagram%20-%20App.%20Gerenc.%20Eventos.png)
 **Criar Conta:** O sistema deve permitir que o usuário possa ciar uma conta no sistema.
 
 **Validar Conta:** O sistema deve ser capaz de dizer se a conta cadastrada é válida ou não(os dados informados pelo usuário são válidos).
