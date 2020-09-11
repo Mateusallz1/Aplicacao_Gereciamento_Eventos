@@ -32,3 +32,7 @@ irá facilitar o acesso a eventos de entretenimento.
 - Cadastrar eventos
 - Pesquisar eventos disponíveis
 - Eventos próximos ao usuário
+
+### Diagrama de Caso de Uso
+![UseCase Diagram - App. Gerenc. Eventos](https://github.com/FMichael77/Aplicacao_Gereciamento_Eventos/blob/gh-pages/UseCase%20Diagram%20-%20App.%20Gerenc.%20Eventos.png)
+
