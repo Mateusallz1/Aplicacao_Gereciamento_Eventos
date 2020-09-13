@@ -33,18 +33,12 @@ irá facilitar o acesso a eventos de entretenimento.
 - Pesquisar eventos disponíveis
 - Eventos próximos ao usuário
 
-### Diagrama de Caso de Uso
-![UseCase Diagram - App. Gerenc. Eventos](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/UseCase%20Diagram%20-%20App.%20Gerenc.%20Eventos.png)
-**Criar Conta:** O sistema deve permitir que o usuário possa ciar uma conta no sistema.
-
-**Validar Conta:** O sistema deve ser capaz de dizer se a conta cadastrada é válida ou não(os dados informados pelo usuário são válidos).
-
-**Cadastrar Evento:** O sistema deve permitir que o usuário cadastre um evento, como por exemplo uma festa.
-
-**Validar Evento:** O sistema deve ser capaz de dizer se o evento cadastrado é válido ou não(data inexiste, local indefinido e etc).
-
-**Pesquisar Evento:** O sistema deve permitir que o usuário externo possa pesquisar eventos.
-
-**Consultar Evento:** O sistema deve permitir que o usuário externo possa mostrar os eventos próximos.
-
-**Ordenar Evento:** O Sistema deve ser capaz de ordenar os eventos de acordo com suas datas.
+### Diagrama de Casos de Uso
+![UseCase Diagram - App. Gerenc. Eventos](https://raw.githubusercontent.com/FMichael77/Aplicacao_Gereciamento_Eventos/gh-pages/UseCase%20Diagram%20-%20App.%20Gerenc.%20Eventos.png)  
+**Criar Conta:** O sistema deve permitir que o usuário possa ciar uma conta no sistema.  
+**Validar Conta:** O sistema deve ser capaz de dizer se a conta cadastrada é válida ou não(os dados informados pelo usuário são válidos).  
+**Cadastrar Evento:** O sistema deve permitir que o usuário cadastre um evento, como por exemplo uma festa.  
+**Validar Evento:** O sistema deve ser capaz de dizer se o evento cadastrado é válido ou não(data inexiste, local indefinido e etc).  
+**Pesquisar Evento:** O sistema deve permitir que o usuário externo possa pesquisar eventos.  
+**Consultar Evento:** O sistema deve permitir que o usuário externo possa mostrar os eventos próximos.  
+**Ordenar Evento:** O Sistema deve ser capaz de ordenar os eventos de acordo com suas datas.  
