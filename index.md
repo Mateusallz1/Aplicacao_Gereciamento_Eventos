@@ -42,3 +42,4 @@ irá facilitar o acesso a eventos de entretenimento.
 **Pesquisar Evento:** O sistema deve permitir que o usuário externo possa pesquisar eventos.  
 **Consultar Evento:** O sistema deve permitir que o usuário externo possa mostrar os eventos próximos.  
 **Ordenar Evento:** O Sistema deve ser capaz de ordenar os eventos de acordo com suas datas.  
+**Avaliar Evento:** O Usuário poderá avaliar os eventos que participou.  
